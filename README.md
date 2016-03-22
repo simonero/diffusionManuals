@@ -2,7 +2,7 @@ This repository is intended to serve as a storage place for documentation of Sim
 If you are a lab member or colleague and would like to be added for collaborative purposes or the ability to generate "issues", please email me and I will add you.
 # In-house software that is not currently publicly available is required to follow these pipelines.
 
-Future additions will include:
+Future additions may include:
   1. T1 preparation procedures
   2. Post-processing to generate quantitative metrics
   3. Multi-shell processing pipeline
